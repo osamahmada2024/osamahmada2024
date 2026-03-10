@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Osama Hamada, and I'm an AI Engineer from El-Mahalla El-Kubra</h2>
+<h2 align="left">Hi 👋! My name is Osama Hamada, and I'm an AI Engineer from Cairo</h2>
 
 ###
 

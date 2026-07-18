@@ -53,17 +53,24 @@ Proficient in 𝑭𝒂𝒔𝒕𝑨𝑷𝑰, 𝑫𝒐𝒄𝒌𝒆𝒓, 𝑴𝒐�
 </table>
 
 ---
+---
 
 ###  GitHub Core Analytics
-<!-- إضافة كارت الـ Streak الصايع مع تظبيط ثيم الكروت عشان تظهر فوراً بدون كسر -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamahmada2024&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamahmada2024&theme=tokyonight" width="48%" alt="GitHub Streak" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamahmada2024&layout=compact&theme=tokyonight&langs_count=6" width="60%" alt="Top Languages" />
-</p>
+<div align="center">
+  <!-- كارت الـ Streak الشغال برنس في النص -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamahmada2024&theme=tokyonight" width="100%" alt="GitHub Streak" />
+  
+  <br><br>
+
+  <!-- كارت الإحصائيات بعد تنظيف الرابط -->
+  <img src="https://github-readme-stats.vercel.app/api?username=osamahmada2024&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="100%" alt="GitHub Stats" />
+  
+  <br><br>
+
+  <!-- كارت اللغات بعد حذف الـ Slash الزيادة اللي كانت كاسرة الصورة -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamahmada2024&layout=compact&theme=tokyonight&langs_count=6" width="100%" alt="Top Languages" />
+</div>
 
 ---
 

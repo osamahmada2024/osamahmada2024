@@ -1,18 +1,13 @@
-<!-- الهيدر المقسم الاحترافي - الاسم على الشمال والتوقيع على اليمين فوق -->
-<table width="100%" border="0" cellspacing="0" cellpadding="0">
-  <tr>
-    <td width="70%" valign="middle" align="left">
-      <h1>𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂</h1>
-      <p>🧬 𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑪𝒍𝒐𝒖دود 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕</p>
-      <!-- تايبنج صايع يعرض تخصصاتك العالية -->
-      <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&width=450&lines=Agentic+AI+%26+LangGraph+Architect;Advanced+Computer+Vision+%26+GANs;MLOps+%26+Intelligent+Microservices" alt="Typing SVG" />
-    </td>
-    <td width="30%" valign="middle" align="right">
-      <!-- التوقيع العالي هنا في الجنب فوق متناسق واحترافي -->
-      <img src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="240" alt="Osama Hamada Signature" />
-    </td>
-  </tr>
-</table>
+<!-- التوقيع عايم وموجه لليمين فوق وبدون أي خطوط جداول مقيدة -->
+<img align="right" src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="230" alt="Osama Hamada Signature" />
+
+# 𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂
+### 🧬 𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑪𝒍𝒐𝒖𝒅 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&width=450&lines=Agentic+AI+%26+LangGraph+Architect;Advanced+Computer+Vision+%26+GANs;MLOps+%26+Intelligent+Microservices" alt="Typing SVG" />
+
+<!-- الأمر ده السحري اللي بيفصل التوقيع الفلوت عن بقية محتوى البروفايل عشان الأيقونات تترص صح تحت -->
+<br clear="right">
 
 ---
 
@@ -21,8 +16,6 @@
 𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 specializing in 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰, and 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑽𝒊𝒔𝒊𝒐𝒏 with hands-on experience building end-to-end intelligent systems. Proven track record in competitive environments, achieving 𝑻𝒐𝒑 10% in an international 𝑩𝑪𝑰 competition, developing multi-agent 𝑳𝒂𝒏𝒈𝑮𝒓𝒂𝒑𝒉 systems, 𝑮𝑨𝑵-based face processing pipelines, and production 𝑹𝑨𝑮 architectures.
 
 Proficient in 𝑭𝒂𝒔𝒕𝑨𝑷𝑰, 𝑫𝒐𝒄𝒌𝒆𝒓, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑪𝑰/𝑪𝑫, and cloud deployment on 𝑹𝒂𝒊𝒍𝒘𝒂𝒚 and 𝑷𝒚𝒕𝒉𝒐𝒏𝑨𝒏𝒚𝒘𝒉𝒆𝒓𝒆. Passionate about translating cutting-edge research into scalable, production-ready 𝑨𝑰 solutions.
-
----
 
 ### 🛠️ Technical Deep Dive (Tech Stack)
 

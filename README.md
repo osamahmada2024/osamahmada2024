@@ -1,16 +1,15 @@
 <h1>
   𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂
-  <!-- التوقيع وتحته الموجه الانسيابية المتحركة اللي بتكمل شكل الخط المعووج -->
-  <img align="right" src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="170" alt="Osama Hamada Signature" /><br align="right">
-  <img align="right" src="https://capsule-render.vercel.app/api?type=waving&height=40&section=footer&theme=tokyonight&color=38bdf8" width="170" height="20" alt="Signature Wave Accent" />
+  <img align="right" src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="170" alt="Osama Hamada Signature" />
 </h1>
 
 <br clear="right">
 
 ### 𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑪𝒍𝒐𝒖𝒅 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
 
+<!-- الخط المعووج المتحرك مدمج هنا في اللوب بشكل انسيابي مذهل -->
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=38BDF8&width=380&lines=Agentic+AI+%26+LangGraph+Architect;Advanced+Computer+Vision+%26+GANs;MLOps+%26+Intelligent+Microservices" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=38BDF8&width=380&lines=Agentic+AI+%26+LangGraph+Architect;Advanced+Computer+Vision+%26+GANs;MLOps+%26+Intelligent+Microservices;~~~~~~~~~~~~~~~~~~~~~~~~~~~~" alt="Typing SVG" />
 </p>
 
 ---

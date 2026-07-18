@@ -1,12 +1,9 @@
-<!-- التوقيع هنا عايم كعلامة مائية في الجنب فوق -->
-<p align="right">
-  <img src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="190" alt="Osama Hamada Signature Watermark" />
-</p>
-
-<h1>
+<!-- التوقيع هنا عايم كعلامة مائية في الجنب<h1>
   𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂
-  <!-- علامة النجمة الزرقاء المشرشرة الأصلية للتوثيق متقنترة بالملي -->
+  <!-- علامة التوثيق المشرشرة جنب الاسم مباشرة -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" height="22" valign="middle" alt="Verified Badge" />
+  <!-- التوقيع عايم على اليمين في نفس السطر بالملي بدون أي فراغات علوية -->
+  <img align="right" src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="155" alt="Osama Hamada Signature Watermark" />
 </h1>
 
 <br clear="right">
@@ -17,6 +14,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=38BDF8&width=380&lines=Agentic+AI+%26+LangGraph+Architect;Advanced+Computer+Vision+%26+GANs;MLOps+%26+Intelligent+Microservices;~~~~~~~~~~~~~~~~~~~~~~~~~~~~" alt="Typing SVG" />
 </p>
 
+---
 ---
 
 ### Summary

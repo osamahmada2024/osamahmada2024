@@ -1,4 +1,5 @@
- 𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂
+<h1>
+  𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂
   <!-- علامة التوثيق المشرشرة جنب الاسم مباشرة -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" height="22" valign="middle" alt="Verified Badge" />
   <!-- التوقيع عايم على اليمين في نفس السطر بالملي بدون أي فراغات علوية -->
@@ -14,11 +15,10 @@
 </p>
 
 ---
----
 
 ### Summary
 
-𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 specializing in 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰, and 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑽𝒊𝒔𝒊𝒐𝒏 with hands-on experience building end-to-end intelligent systems. Proven track record in competitive environments, achieving 𝑻𝒐𝒑 10% in an international 𝑩𝑪𝑰 competition, developing multi-agent 𝑳𝒂𝒏𝒈𝑮𝒓𝒂𝒑𝒉 systems, 𝑮𝑨𝑵-based face processing pipelines, and production 𝑹𝑨𝑮 architectures.
+𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 specializing in 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰, and 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑽𝒊𝒔𝒊𝒐𝒏 with hands-on experience building end-to-end intelligent systems. Proven track record in competitive environments, achieving 𝑻𝒐𝒑 10% in an international 𝑩𝑪𝑰 competition, developing multi-agent 𝑳𝒂𝒏𝒈𝑮𝒓𝒂ppt systems, 𝑮𝑨𝑵-based face processing pipelines, and production 𝑹𝑨𝑮 architectures.
 
 Proficient in 𝑭𝒂𝒔𝒕𝑨𝑷𝑰, 𝑫𝒐𝒄𝒌𝒆𝒓, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑪𝑰/𝑪𝑫, and cloud deployment on 𝑹𝒂𝒊𝒍𝒘𝒂𝒚 and 𝑷𝒚𝒕𝒉𝒐𝒏𝑨𝒏𝒚𝒘𝒉𝒆𝒓𝒆. Passionate about translating cutting-edge research into scalable, production-ready 𝑨𝑰 solutions.
 

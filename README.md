@@ -1,5 +1,4 @@
-<!-- التوقيع هنا عايم كعلامة مائية في الجنب<h1>
-  𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂
+ 𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂
   <!-- علامة التوثيق المشرشرة جنب الاسم مباشرة -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" height="22" valign="middle" alt="Verified Badge" />
   <!-- التوقيع عايم على اليمين في نفس السطر بالملي بدون أي فراغات علوية -->

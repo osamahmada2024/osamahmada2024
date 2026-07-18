@@ -1,90 +1,80 @@
-<h2 align="left">Hi 👋! My name is Osama Hamada, and I'm an AI Engineer from Cairo</h2>
+<!-- البانر العلوي الاحترافي متناسق مع الدارك مود -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=Osama%20Hamada&fontSize=50&fontColor=ffffff&theme=tokyonight" width="100%" />
+</p>
 
-###
+<!-- العنوان الرئيسي والتخصص -->
+<h1 align="center">Hi 👋, I'm Osama Hamada</h1>
+<h3 align="center">AI Engineer from Cairo 🇪🇬</h3>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=osamahmada2024&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=osamahmada2024&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+<!-- تأثير الكتابة المتحرك يعرض تخصصاتك بشكل شيك -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=79dafa&center=true&vCenter=true&width=600&lines=Computer+Vision+%7C+Deep+Learning;Intelligent+Microservices+%7C+MLOps;Signal+Processing+%7C+Data+Science" alt="Typing SVG" />
+</p>
 
-###
+---
 
-<img align="right" height="150" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExbzRtaXdxcDlldXhhNGc5aXVtOGc5NWI5dDBnNTl6dHQwd2diOTMzdCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/GghGKaZ8JeHJx0apQC/giphy.gif"  />
+### 🧠 About Me
+- 🚀 **Core Focus:** Building end-to-end Computer Vision models, real-time object tracking, and deep learning pipelines.
+- 🛠️ **System Architecture:** Designing distributed AI microservices using Docker, Kafka, and FastAPI.
+- 📊 **Research & Optimization:** Actively working on signal processing (EEG data classification) and high-performance inference.
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="31" alt="python logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="31" alt="cplusplus logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="31" alt="git logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="31" alt="java logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" height="31" alt="kaggle logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="31" alt="jupyter logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="31" alt="mysql logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="31" alt="pytorch logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="31" alt="tensorflow logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=docker" height="31" alt="docker logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/pandas/150458" height="31" alt="pandas logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/numpy/013243" height="31" alt="numpy logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/flask/000000" height="31" alt="flask logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/github/181717" height="31" alt="github logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/postman/FF6C37" height="31" alt="postman logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="31" alt="selenium logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="31" alt="amazonwebservices logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original.svg" height="31" alt="azure logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" height="31" alt="matlab logo"  />
-  <img width="17" />
-  <img src="https://cdn.simpleicons.org/opencv/5C3EE8" height="31" alt="opencv logo"  />
-  <img width="17" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="31" alt="vscode logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=visualstudio" height="31" alt="visualstudio logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=bash" height="31" alt="bash logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=powershell" height="31" alt="powershell logo"  />
-  <img width="17" />
-  <img src="https://skillicons.dev/icons?i=pycharm" height="31" alt="pycharm logo"  />
-</div>
+### 📊 GitHub Analytics
+<!-- تقسيم الإحصائيات لترتيب مرن ينسق نفسه تلقائياً -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=osamahmada2024&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" width="48%" alt="Osama's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamahmada2024&layout=compact&theme=tokyonight&langs_count=6" width="48%" alt="Top Languages" />
+</p>
 
-###
+---
 
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
-</div>
+### 🛠️ Tech Stack & Toolkit
 
-###
+#### 🤖 Artificial Intelligence & Data Science
+<p align="left">
+  <img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white" alt="pytorch"/>
+  <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" alt="tensorflow"/>
+  <img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=for-the-badge&logo=OpenCV&logoColor=white" alt="opencv"/>
+  <img src="https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="pandas"/>
+  <img src="https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white" alt="numpy"/>
+</p>
 
-<br clear="both">
+#### 💻 Programming Languages & Shells
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,bash,powershell" alt="Languages" />
+</p>
 
-<img src="https://raw.githubusercontent.com/osamahmada2024/osamahmada2024/output/snake.svg" alt="Snake animation" />
+#### 🌐 MLOps, Cloud & Backend Infrastructures
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=docker,aws,azure,mysql,fastapi" alt="DevOps and Backend" />
+</p>
 
-###
+#### 🔧 Tools & IDEs
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,visualstudio,pycharm,postman" alt="Tools" />
+</p>
 
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
-</div>
+---
 
-###
+### 🤝 Let's Connect
+<!-- أزرار تواصل حقيقية متناسقة وأنيقة -->
+<p align="left">
+  <a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:YOUR_EMAIL@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://kaggle.com/YOUR_KAGGLE_USERNAME" target="_blank">
+    <img src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white" alt="Kaggle"/>
+  </a>
+</p>
+
+---
+
+### 🐍 Contribution Activity
+<p align="center">
+  <img src="https://raw.githubusercontent.com/osamahmada2024/osamahmada2024/output/snake.svg" alt="Snake animation" width="100%" />
+</p>

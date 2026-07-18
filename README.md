@@ -1,13 +1,20 @@
+<table align="right" border="0" cellpadding="8" cellspacing="0">
+  <tr>
+    <td bgcolor="#161b22">
+      <img src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="160" alt="Osama Hamada Signature" />
+    </td>
+  </tr>
+</table>
+
 <h1>
   𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂
-  <img align="right" src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="170" alt="Osama Hamada Signature" />
+  <img src="https://img.shields.io/badge/-%E2%9C%93%20Verified-38BDF8?style=flat-square" height="20" valign="middle" />
 </h1>
 
 <br clear="right">
 
 ### 𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑪𝒍𝒐𝒖𝒅 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
 
-<!-- الخط المعووج المتحرك مدمج هنا في اللوب بشكل انسيابي مذهل -->
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=38BDF8&width=380&lines=Agentic+AI+%26+LangGraph+Architect;Advanced+Computer+Vision+%26+GANs;MLOps+%26+Intelligent+Microservices;~~~~~~~~~~~~~~~~~~~~~~~~~~~~" alt="Typing SVG" />
 </p>
@@ -63,12 +70,10 @@ Proficient in 𝑭𝒂𝒔𝒕𝑨𝑷𝑰, 𝑫𝒐𝒄𝒌𝒆𝒓, 𝑴𝒐�
 ### GitHub Core Analytics
 
 <div align="center">
-  <!-- كارت الـ Streak الشغال والوحش بتاعك -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=osamahmada2024&theme=tokyonight" width="100%" alt="GitHub Streak" />
   
   <br><br>
 
-  <!-- الرسم البياني المتناسق 100% مع الستريك والدارك مود -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=osamahmada2024&theme=react-dark&bg_color=1a1b26&title_color=38bdf8&line=38bdf8&point=ffffff" width="100%" alt="GitHub Activity Graph" />
 </div>
 

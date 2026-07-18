@@ -11,14 +11,15 @@
 ### 𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 | 𝑴𝒂𝒄𝒉𝒊𝒏𝒆 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈 | 𝑪𝒍𝒐𝒖𝒅 𝑫𝒆𝒑𝒍𝒐𝒚𝒎𝒆𝒏𝒕
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=38BDF8&width=380&lines=Agentic+AI+%26+LangGraph+Architect;Advanced+Computer+Vision+%26+GANs;MLOps+%26+Intelligent+Microservices;~~~~~~~~~~~~~~~~~~~~~~~~~~~~" alt="Typing SVG" />
+  <!-- تم إزالة الخطوط المتموجة وبقيت الكلمات فقط -->
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=800&color=38BDF8&width=380&lines=Agentic+AI+%26+LangGraph+Architect;Advanced+Computer+Vision+%26+GANs;MLOps+%26+Intelligent+Microservices" alt="Typing SVG" />
 </p>
 
 ---
 
 ### Summary
 
-𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 specializing in 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰, and 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑽𝒊𝒔𝒊𝒐𝒏 with hands-on experience building end-to-end intelligent systems. Proven track record in competitive environments, achieving 𝑻𝒐𝒑 10% in an international 𝑩𝑪𝑰 competition, developing multi-agent 𝑳𝒂𝒏𝒈𝑮𝒓𝒂ppt systems, 𝑮𝑨𝑵-based face processing pipelines, and production 𝑹𝑨𝑮 architectures.
+𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 specializing in 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰, and 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑽𝒊𝒔𝒊𝒐𝒏 with hands-on experience building end-to-end intelligent systems. Proven track record in competitive environments, achieving 𝑻𝒐𝒑 10% in an international 𝑩𝑪𝑰 competition, developing multi-agent 𝑳𝒂𝒏𝒈𝑮𝒓𝒂𝒑𝒉 systems, 𝑮𝑨𝑵-based face processing pipelines, and production 𝑹𝑨𝑮 architectures.
 
 Proficient in 𝑭𝒂𝒔𝒕𝑨𝑷𝑰, 𝑫𝒐𝒄𝒌𝒆𝒓, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑪𝑰/𝑪𝑫, and cloud deployment on 𝑹𝒂𝒊𝒍𝒘𝒂𝒚 and 𝑷𝒚𝒕𝒉𝒐𝒏𝑨𝒏𝒚𝒘𝒉𝒆𝒓𝒆. Passionate about translating cutting-edge research into scalable, production-ready 𝑨𝑰 solutions.
 

@@ -1,11 +1,11 @@
-<!-- التوقيع عائم على اليمين بشكل نقي وبدون أي جداول لتجنب الخطوط الرمادية -->
+<!-- التوقيع هنا عايم كعلامة مائية في الجنب فوق -->
 <p align="right">
-  <img src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="155" alt="Osama Hamada Signature" />
+  <img src="https://docs.google.com/uc?export=view&id=1iB5kzUrIdF3IfM4VNjdWgvGuo_KJwEnt" width="190" alt="Osama Hamada Signature Watermark" />
 </p>
 
 <h1>
   𝑶𝒔𝒂𝒎𝒂 𝑯𝒂𝒎𝒂𝒅𝒂
-  <!-- علامة النجمة الزرقاء المشرشرة الأصلية للتوثيق متناسقة تماماً مع حجم الخط -->
+  <!-- علامة النجمة الزرقاء المشرشرة الأصلية للتوثيق متقنترة بالملي -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/e4/Twitter_Verified_Badge.svg" height="22" valign="middle" alt="Verified Badge" />
 </h1>
 
@@ -21,9 +21,9 @@
 
 ### Summary
 
-𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 specializing in 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰, and 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑽𝒊𝒔𝒊𝒐𝒏 with hands-on experience building end-to-end intelligent systems[cite: 1]. Proven track record in competitive environments, achieving 𝑻𝒐𝒑 10% in an international 𝑩𝑪𝑰 competition, developing multi-agent 𝑳𝒂𝒏𝒈𝑮𝒓𝒂𝒑𝒉 systems, 𝑮𝑨𝑵-based face processing pipelines, and production 𝑹𝑨𝑮 architectures[cite: 1].
+𝑨𝑰 𝑺𝒐𝒍𝒖𝒕𝒊𝒐𝒏𝒔 𝑫𝒆𝒗𝒆𝒍𝒐𝒑𝒆𝒓 specializing in 𝑫𝒆𝒆𝒑 𝑳𝒆𝒂𝒓𝒏𝒊𝒏𝒈, 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰, and 𝑪𝒐𝒎𝒑𝒖𝒕𝒆𝒓 𝑽𝒊𝒔𝒊𝒐𝒏 with hands-on experience building end-to-end intelligent systems. Proven track record in competitive environments, achieving 𝑻𝒐𝒑 10% in an international 𝑩𝑪𝑰 competition, developing multi-agent 𝑳𝒂𝒏𝒈𝑮𝒓𝒂𝒑𝒉 systems, 𝑮𝑨𝑵-based face processing pipelines, and production 𝑹𝑨𝑮 architectures.
 
-Proficient in 𝑭𝒂𝒔𝒕𝑨𝑷𝑰, 𝑫𝒐𝒄𝒌𝒆𝒓, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑪𝑰/𝑪𝑫, and cloud deployment on 𝑹𝒂𝒊𝒍𝒘𝒂𝒚 and 𝑷𝒚𝒕𝒉𝒐𝒏𝑨𝒏𝒚𝒘𝒉𝒆𝒓𝒆[cite: 1]. Passionate about translating cutting-edge research into scalable, production-ready 𝑨𝑰 solutions[cite: 1].
+Proficient in 𝑭𝒂𝒔𝒕𝑨𝑷𝑰, 𝑫𝒐𝒄𝒌𝒆𝒓, 𝑴𝒐𝒏𝒈𝒐𝑫𝑩, 𝑪𝑰/𝑪𝑫, and cloud deployment on 𝑹𝒂𝒊𝒍𝒘𝒂𝒚 and 𝑷𝒚𝒕𝒉𝒐𝒏𝑨𝒏𝒚𝒘𝒉𝒆𝒓𝒆. Passionate about translating cutting-edge research into scalable, production-ready 𝑨𝑰 solutions.
 
 ---
 
@@ -51,13 +51,13 @@ Proficient in 𝑭𝒂𝒔𝒕𝑨𝑷𝑰, 𝑫𝒐𝒄𝒌𝒆𝒓, 𝑴𝒐�
 <table width="100%" border="0">
   <tr>
     <td width="50%" valign="top">
-      <h4> 𝑵𝒆𝒖𝒓𝒊𝒏𝒂 — 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰 𝑭𝒂𝒄𝒆 𝑺𝒕𝒚𝒍富𝒆 𝑻𝒓𝒂𝒏𝒔𝒇𝒆𝒓</h4>
-      <p>Multi-agent architecture orchestrating an autonomous conversation-to-image pipeline using <b>StarGAN v2</b>, <b>LangGraph</b>, CodeFormer, and Real-ESRGAN[cite: 1]. Deployed via 3 Docker microservices[cite: 1].</p>
+      <h4> 𝑵𝒆𝒖𝒓𝒊𝒏𝒂 — 𝑨𝒈𝒆𝒏𝒕𝒊𝒄 𝑨𝑰 𝑭𝒂𝒄𝒆 𝑺𝒕𝒚𝒍𝒆 𝑻𝒓𝒂𝒏𝒔𝒇𝒆𝒓</h4>
+      <p>Multi-agent architecture orchestrating an autonomous conversation-to-image pipeline using <b>StarGAN v2</b>, <b>LangGraph</b>, CodeFormer, and Real-ESRGAN. Deployed via 3 Docker microservices.</p>
       <a href="https://github.com/osamahmada2024/Neurina">GitHub Repository</a>
     </td>
     <td width="50%" valign="top">
       <h4> 𝒎𝒊𝒏𝒊_𝒓𝒂𝒈 — 𝑰𝒏𝒕𝒆𝒍𝒍𝒊𝒈𝒆𝒏𝒕 𝑰𝒏𝒈𝒆𝒔𝒕𝒊𝒐𝒏 𝑷𝒊𝒑𝒆𝒍𝒊𝒏𝒆</h4>
-      <p>FastAPI document processing service powered by <b>LangChain</b> featuring smart recursive text chunking and async MongoDB persistence[cite: 1]. Fully containerized with clean MVC[cite: 1].</p>
+      <p>FastAPI document processing service powered by <b>LangChain</b> featuring smart recursive text chunking and async MongoDB persistence. Fully containerized with clean MVC.</p>
       <a href="https://github.com/osamahmada2024/mini_rag">GitHub Repository</a>
     </td>
   </tr>
